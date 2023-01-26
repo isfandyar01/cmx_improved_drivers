@@ -1,0 +1,18 @@
+Configuration	CMX_AUDIO_Codec_drivers_2.0-main.ioc
+STM8CubeMX 	1.5.0
+Date	12/23/2022
+MCU	STM8L101F1UxA
+
+
+
+PERIPHERALS	MODES	FUNCTIONS	PINS
+SPI	Full-Duplex Master	SPI_MISO	PB7
+SPI	Full-Duplex Master	SPI_MOSI	PB6
+SPI	Full-Duplex Master	SPI_SCK	PB5
+
+
+
+Pin Nb	PINs	FUNCTIONs	LABELs
+12	PB5	SPI_SCK	
+13	PB6	SPI_MOSI	
+14	PB7	SPI_MISO	

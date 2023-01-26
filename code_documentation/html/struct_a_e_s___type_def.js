@@ -1,0 +1,27 @@
+var struct_a_e_s___type_def =
+[
+    [ "CR", "struct_a_e_s___type_def.html#ad95f1a38ad551672f1d6c59299b99c1a", null ],
+    [ "DINR", "struct_a_e_s___type_def.html#a8df0ec8c0eae4b42c1ae5b7e01044c26", null ],
+    [ "DOUTR", "struct_a_e_s___type_def.html#a93e69a0e82607ec9480d0e395b236ead", null ],
+    [ "IVR0", "struct_a_e_s___type_def.html#a5a27101392cc89c762fc478232a8cfd9", null ],
+    [ "IVR1", "struct_a_e_s___type_def.html#a6fb98e2e9d464161d805b5785b764ddf", null ],
+    [ "IVR2", "struct_a_e_s___type_def.html#ab7dcb8897ad132d7c2a334eb5059c955", null ],
+    [ "IVR3", "struct_a_e_s___type_def.html#a0f7547617d859202a18a12933e7dce8e", null ],
+    [ "KEYR0", "struct_a_e_s___type_def.html#a4fcb96eb7820d80f3f9027d3d19e0e48", null ],
+    [ "KEYR1", "struct_a_e_s___type_def.html#a2755d099b5556ca661cad9c32eced4a4", null ],
+    [ "KEYR2", "struct_a_e_s___type_def.html#a415157c12229e50b4ae5e2dedfa37069", null ],
+    [ "KEYR3", "struct_a_e_s___type_def.html#ac4ed72833846f489d10cf751f552de7a", null ],
+    [ "KEYR4", "struct_a_e_s___type_def.html#ad0a7cd556c6805528b6c8ca112d76fe3", null ],
+    [ "KEYR5", "struct_a_e_s___type_def.html#ab9f44889e9b7f1bcad92fa3584916d17", null ],
+    [ "KEYR6", "struct_a_e_s___type_def.html#a49cadbbcf36f83f7552f115e307c12df", null ],
+    [ "KEYR7", "struct_a_e_s___type_def.html#a71b49addbeac6072cae7da6083d2157b", null ],
+    [ "SR", "struct_a_e_s___type_def.html#a567d574d42c57f0f5850eaada4eb1f31", null ],
+    [ "SUSP0R", "struct_a_e_s___type_def.html#ae5360c80e535ebe7df9429585c785472", null ],
+    [ "SUSP1R", "struct_a_e_s___type_def.html#af9ce2f6c4d6a92bff16da464e73dfcfa", null ],
+    [ "SUSP2R", "struct_a_e_s___type_def.html#ab219daf322159533736e5f97556fdcdd", null ],
+    [ "SUSP3R", "struct_a_e_s___type_def.html#a08ff1560fc700cddaf29c9e60de322b4", null ],
+    [ "SUSP4R", "struct_a_e_s___type_def.html#aae398f610b18756905b92dea4c9accf6", null ],
+    [ "SUSP5R", "struct_a_e_s___type_def.html#a962b52f45c4f51cc28650670ba0a4858", null ],
+    [ "SUSP6R", "struct_a_e_s___type_def.html#ab533773125959eb6aa38903275656660", null ],
+    [ "SUSP7R", "struct_a_e_s___type_def.html#a990de5f39423924e15aabf8f9eb0e2f8", null ]
+];
